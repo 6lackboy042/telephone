@@ -1,0 +1,14 @@
+{
+  "name": "telephone-package",
+  "version": "1.0.0",
+  "description": "A telephone class using the observer pattern.",
+  "main": "src/Telephone.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [
+    "telephone",
+    "observer-pattern"
+  ],
+  "license": "MIT"
+}
